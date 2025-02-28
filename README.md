@@ -15,6 +15,9 @@
   <h1>Projects</h1>
   <ul>
     <h2>Web Scraping</h2>
+    <ul>
+      <h3>Cars.com Project</h3>
+    </ul>
     <h2>Data Querying</h2>
     <h2>Exploratory Data Analysis</h2>
     <h2>Data Wrangling</h2>
